@@ -1,0 +1,2 @@
+self.cost = tf.reduce_mean(post_z - prior_z) + self.mse_loss + self.corr_loss + self.l2_loss * l2
+

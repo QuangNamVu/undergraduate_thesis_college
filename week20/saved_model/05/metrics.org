@@ -1,0 +1,61 @@
+  1, Training cost:, 0.5870
+  1, MSE     train:, 1.0014
+ 11, Training cost:, 0.5348
+ 11, MSE     train:, 1.0104
+ 21, Training cost:, 0.5253
+ 21, MSE     train:, 1.0067
+ 31, Training cost:, 0.5406
+ 31, MSE     train:, 1.0069
+ 41, Training cost:, 0.5474
+ 41, MSE     train:, 1.0057
+ 51, Training cost:, 0.5433
+ 51, MSE     train:, 1.0064
+ 61, Training cost:, 0.5219
+ 61, MSE     train:, 1.0055
+ 71, Training cost:, 0.5509
+ 71, MSE     train:, 1.0074
+ 81, Training cost:, 0.5283
+ 81, MSE     train:, 1.0050
+ 91, Training cost:, 0.5524
+ 91, MSE     train:, 1.0063
+101, Training cost:, 0.5307
+101, MSE     train:, 1.0071
+111, Training cost:, 0.4596
+111, MSE     train:, 1.0084
+121, Training cost:, 0.5369
+121, MSE     train:, 1.0109
+131, Training cost:, 0.5491
+131, MSE     train:, 1.0070
+141, Training cost:, 0.5458
+141, MSE     train:, 1.0061
+151, Training cost:, 0.5486
+151, MSE     train:, 1.0054
+161, Training cost:, 0.5032
+161, MSE     train:, 1.0050
+171, Training cost:, 0.5472
+171, MSE     train:, 1.0051
+181, Training cost:, 0.5470
+181, MSE     train:, 1.0048
+191, Training cost:, 0.5447
+191, MSE     train:, 1.0055
+201, Training cost:, 0.5412
+201, MSE     train:, 1.0054
+211, Training cost:, 0.5445
+211, MSE     train:, 1.0045
+221, Training cost:, 0.5444
+221, MSE     train:, 1.0044
+231, Training cost:, 0.5476
+231, MSE     train:, 1.0053
+241, Training cost:, 0.5451
+241, MSE     train:, 1.0046
+251, Training cost:, 0.5402
+251, MSE     train:, 1.0066
+261, Training cost:, 0.5454
+261, MSE     train:, 1.0045
+271, Training cost:, 0.5293
+271, MSE     train:, 1.0053
+281, Training cost:, 0.5453
+281, MSE     train:, 1.0040
+291, Training cost:, 0.5377
+291, MSE     train:, 1.0045
+Time: 415.18 secs

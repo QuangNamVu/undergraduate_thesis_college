@@ -1,0 +1,686 @@
+[32m[0420 21:00:42 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52224
+[32m[0420 21:00:42 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_1B_1Y/model-4000.
+[32m[0420 21:05:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52614
+[32m[0420 21:05:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_1B_4Y/model-4000.
+[32m[0420 21:09:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53435
+[32m[0420 21:09:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_1B_7Y/model-4000.
+[32m[0420 21:14:18 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52597
+[32m[0420 21:14:19 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_1B_10Y/model-4000.
+[32m[0420 21:18:49 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52513
+[32m[0420 21:18:50 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_1B_13Y/model-4000.
+[32m[0420 21:23:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52885
+[32m[0420 21:23:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_1B_16Y/model-4000.
+[32m[0420 21:27:48 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52577
+[32m[0420 21:27:49 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_1B_19Y/model-4000.
+[32m[0420 21:32:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52625
+[32m[0420 21:32:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_4B_1Y/model-4000.
+[32m[0420 21:36:51 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52095
+[32m[0420 21:36:52 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_4B_4Y/model-4000.
+[32m[0420 21:41:25 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53653
+[32m[0420 21:41:25 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_4B_7Y/model-4000.
+[32m[0420 21:45:56 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53456
+[32m[0420 21:45:56 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_4B_10Y/model-4000.
+[32m[0420 21:50:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51956
+[32m[0420 21:50:24 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_4B_13Y/model-4000.
+[32m[0420 21:54:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53075
+[32m[0420 21:54:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_4B_16Y/model-4000.
+[32m[0420 21:59:12 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53236
+[32m[0420 21:59:12 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_4B_19Y/model-4000.
+[32m[0420 22:03:39 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52894
+[32m[0420 22:03:39 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_7B_1Y/model-4000.
+[32m[0420 22:08:04 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52643
+[32m[0420 22:08:04 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_7B_4Y/model-4000.
+[32m[0420 22:12:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52417
+[32m[0420 22:12:24 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_7B_7Y/model-4000.
+[32m[0420 22:16:53 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52833
+[32m[0420 22:16:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_7B_10Y/model-4000.
+[32m[0420 22:21:16 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52918
+[32m[0420 22:21:16 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_7B_13Y/model-4000.
+[32m[0420 22:25:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52708
+[32m[0420 22:25:46 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_7B_16Y/model-4000.
+[32m[0420 22:30:20 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52554
+[32m[0420 22:30:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_7B_19Y/model-4000.
+[32m[0420 22:34:54 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53097
+[32m[0420 22:34:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_10B_1Y/model-4000.
+[32m[0420 22:39:25 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52866
+[32m[0420 22:39:25 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_10B_4Y/model-4000.
+[32m[0420 22:43:54 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53021
+[32m[0420 22:43:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_10B_7Y/model-4000.
+[32m[0420 22:48:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51879
+[32m[0420 22:48:25 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_10B_10Y/model-4000.
+[32m[0420 22:52:51 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53061
+[32m[0420 22:52:51 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_10B_13Y/model-4000.
+[32m[0420 22:57:20 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53085
+[32m[0420 22:57:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_10B_16Y/model-4000.
+[32m[0420 23:01:48 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5157
+[32m[0420 23:01:48 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_10B_19Y/model-4000.
+[32m[0420 23:06:13 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51731
+[32m[0420 23:06:13 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_13B_1Y/model-4000.
+[32m[0420 23:11:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53191
+[32m[0420 23:11:03 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_13B_4Y/model-4000.
+[32m[0420 23:15:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52118
+[32m[0420 23:15:48 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_13B_7Y/model-4000.
+[32m[0420 23:20:20 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5178
+[32m[0420 23:20:21 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_13B_10Y/model-4000.
+[32m[0420 23:24:53 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52635
+[32m[0420 23:24:53 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_13B_13Y/model-4000.
+[32m[0420 23:29:27 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5262
+[32m[0420 23:29:27 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_13B_16Y/model-4000.
+[32m[0420 23:34:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52922
+[32m[0420 23:34:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_13B_19Y/model-4000.
+[32m[0420 23:39:14 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51819
+[32m[0420 23:39:14 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_16B_1Y/model-4000.
+[32m[0420 23:44:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53065
+[32m[0420 23:44:03 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_16B_4Y/model-4000.
+[32m[0420 23:48:52 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51709
+[32m[0420 23:48:52 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_16B_7Y/model-4000.
+[32m[0420 23:53:34 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53536
+[32m[0420 23:53:34 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_16B_10Y/model-4000.
+[32m[0420 23:58:18 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52254
+[32m[0420 23:58:18 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_16B_13Y/model-4000.
+[32m[0421 00:03:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52549
+[32m[0421 00:03:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_16B_16Y/model-4000.
+[32m[0421 00:08:00 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52916
+[32m[0421 00:08:00 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_16B_19Y/model-4000.
+[32m[0421 00:12:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52442
+[32m[0421 00:12:45 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_19B_1Y/model-4000.
+[32m[0421 00:17:27 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52916
+[32m[0421 00:17:28 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_19B_4Y/model-4000.
+[32m[0421 00:22:18 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52473
+[32m[0421 00:22:18 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_19B_7Y/model-4000.
+[32m[0421 00:27:10 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51807
+[32m[0421 00:27:10 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_19B_10Y/model-4000.
+[32m[0421 00:31:57 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52798
+[32m[0421 00:31:57 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_19B_13Y/model-4000.
+[32m[0421 00:36:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52563
+[32m[0421 00:36:45 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_19B_16Y/model-4000.
+[32m[0421 00:41:40 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53055
+[32m[0421 00:41:40 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/1A_19B_19Y/model-4000.
+[32m[0421 00:46:27 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52406
+[32m[0421 00:46:27 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_1B_1Y/model-4000.
+[32m[0421 00:51:22 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52926
+[32m[0421 00:51:22 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_1B_4Y/model-4000.
+[32m[0421 00:56:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5221
+[32m[0421 00:56:16 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_1B_7Y/model-4000.
+[32m[0421 01:01:07 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51885
+[32m[0421 01:01:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_1B_10Y/model-4000.
+[32m[0421 01:05:57 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52542
+[32m[0421 01:05:58 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_1B_13Y/model-4000.
+[32m[0421 01:10:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52185
+[32m[0421 01:10:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_1B_16Y/model-4000.
+[32m[0421 01:15:29 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5261
+[32m[0421 01:15:30 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_1B_19Y/model-4000.
+[32m[0421 01:20:22 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52704
+[32m[0421 01:20:22 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_4B_1Y/model-4000.
+[32m[0421 01:25:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51636
+[32m[0421 01:25:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_4B_4Y/model-4000.
+[32m[0421 01:30:10 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51637
+[32m[0421 01:30:10 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_4B_7Y/model-4000.
+[32m[0421 01:35:05 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52758
+[32m[0421 01:35:05 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_4B_10Y/model-4000.
+[32m[0421 01:39:54 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52544
+[32m[0421 01:39:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_4B_13Y/model-4000.
+[32m[0421 01:44:49 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52821
+[32m[0421 01:44:49 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_4B_16Y/model-4000.
+[32m[0421 01:49:39 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52305
+[32m[0421 01:49:39 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_4B_19Y/model-4000.
+[32m[0421 01:54:31 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52668
+[32m[0421 01:54:32 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_7B_1Y/model-4000.
+[32m[0421 01:59:16 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53014
+[32m[0421 01:59:16 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_7B_4Y/model-4000.
+[32m[0421 02:03:59 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51423
+[32m[0421 02:03:59 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_7B_7Y/model-4000.
+[32m[0421 02:08:44 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52649
+[32m[0421 02:08:44 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_7B_10Y/model-4000.
+[32m[0421 02:13:30 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5232
+[32m[0421 02:13:30 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_7B_13Y/model-4000.
+[32m[0421 02:18:20 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52736
+[32m[0421 02:18:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_7B_16Y/model-4000.
+[32m[0421 02:23:11 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52499
+[32m[0421 02:23:12 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_7B_19Y/model-4000.
+[32m[0421 02:28:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53426
+[32m[0421 02:28:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_10B_1Y/model-4000.
+[32m[0421 02:32:56 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51022
+[32m[0421 02:32:56 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_10B_4Y/model-4000.
+[32m[0421 02:37:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52251
+[32m[0421 02:37:46 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_10B_7Y/model-4000.
+[32m[0421 02:42:38 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52243
+[32m[0421 02:42:39 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_10B_10Y/model-4000.
+[32m[0421 02:47:29 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53099
+[32m[0421 02:47:29 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_10B_13Y/model-4000.
+[32m[0421 02:52:09 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5219
+[32m[0421 02:52:09 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_10B_16Y/model-4000.
+[32m[0421 02:56:57 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52408
+[32m[0421 02:56:57 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_10B_19Y/model-4000.
+[32m[0421 03:01:44 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53317
+[32m[0421 03:01:44 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_13B_1Y/model-4000.
+[32m[0421 03:06:31 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5278
+[32m[0421 03:06:32 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_13B_4Y/model-4000.
+[32m[0421 03:11:18 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52076
+[32m[0421 03:11:18 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_13B_7Y/model-4000.
+[32m[0421 03:16:06 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53114
+[32m[0421 03:16:07 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_13B_10Y/model-4000.
+[32m[0421 03:21:02 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52708
+[32m[0421 03:21:02 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_13B_13Y/model-4000.
+[32m[0421 03:25:52 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51897
+[32m[0421 03:25:52 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_13B_16Y/model-4000.
+[32m[0421 03:30:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52928
+[32m[0421 03:30:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_13B_19Y/model-4000.
+[32m[0421 03:35:43 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51636
+[32m[0421 03:35:43 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_16B_1Y/model-4000.
+[32m[0421 03:40:31 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52213
+[32m[0421 03:40:31 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_16B_4Y/model-4000.
+[32m[0421 03:45:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52559
+[32m[0421 03:45:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_16B_7Y/model-4000.
+[32m[0421 03:50:01 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52973
+[32m[0421 03:50:01 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_16B_10Y/model-4000.
+[32m[0421 03:54:55 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52595
+[32m[0421 03:54:55 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_16B_13Y/model-4000.
+[32m[0421 03:59:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52573
+[32m[0421 03:59:45 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_16B_16Y/model-4000.
+[32m[0421 04:04:36 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51533
+[32m[0421 04:04:37 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_16B_19Y/model-4000.
+[32m[0421 04:09:20 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5256
+[32m[0421 04:09:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_19B_1Y/model-4000.
+[32m[0421 04:14:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5298
+[32m[0421 04:14:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_19B_4Y/model-4000.
+[32m[0421 04:18:54 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5314
+[32m[0421 04:18:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_19B_7Y/model-4000.
+[32m[0421 04:23:37 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52053
+[32m[0421 04:23:38 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_19B_10Y/model-4000.
+[32m[0421 04:28:28 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52367
+[32m[0421 04:28:28 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_19B_13Y/model-4000.
+[32m[0421 04:33:22 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53418
+[32m[0421 04:33:22 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_19B_16Y/model-4000.
+[32m[0421 04:38:14 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52622
+[32m[0421 04:38:14 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/4A_19B_19Y/model-4000.
+[32m[0421 04:43:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53006
+[32m[0421 04:43:04 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_1B_1Y/model-4000.
+[32m[0421 04:47:54 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52375
+[32m[0421 04:47:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_1B_4Y/model-4000.
+[32m[0421 04:52:36 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51963
+[32m[0421 04:52:36 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_1B_7Y/model-4000.
+[32m[0421 04:57:18 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53632
+[32m[0421 04:57:18 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_1B_10Y/model-4000.
+[32m[0421 05:02:11 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52054
+[32m[0421 05:02:11 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_1B_13Y/model-4000.
+[32m[0421 05:07:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.523
+[32m[0421 05:07:03 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_1B_16Y/model-4000.
+[32m[0421 05:11:59 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53078
+[32m[0421 05:11:59 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_1B_19Y/model-4000.
+[32m[0421 05:16:52 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51846
+[32m[0421 05:16:52 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_4B_1Y/model-4000.
+[32m[0421 05:21:39 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52313
+[32m[0421 05:21:39 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_4B_4Y/model-4000.
+[32m[0421 05:26:43 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53105
+[32m[0421 05:26:43 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_4B_7Y/model-4000.
+[32m[0421 05:31:28 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52906
+[32m[0421 05:31:28 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_4B_10Y/model-4000.
+[32m[0421 05:36:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51708
+[32m[0421 05:36:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_4B_13Y/model-4000.
+[32m[0421 05:40:58 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52224
+[32m[0421 05:40:58 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_4B_16Y/model-4000.
+[32m[0421 05:45:54 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53636
+[32m[0421 05:45:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_4B_19Y/model-4000.
+[32m[0421 05:50:39 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52062
+[32m[0421 05:50:39 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_7B_1Y/model-4000.
+[32m[0421 05:55:21 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52908
+[32m[0421 05:55:21 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_7B_4Y/model-4000.
+[32m[0421 06:00:09 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5264
+[32m[0421 06:00:09 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_7B_7Y/model-4000.
+[32m[0421 06:05:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52506
+[32m[0421 06:05:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_7B_10Y/model-4000.
+[32m[0421 06:09:54 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52226
+[32m[0421 06:09:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_7B_13Y/model-4000.
+[32m[0421 06:14:35 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53547
+[32m[0421 06:14:35 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_7B_16Y/model-4000.
+[32m[0421 06:19:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52928
+[32m[0421 06:19:19 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_7B_19Y/model-4000.
+[32m[0421 06:24:06 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53616
+[32m[0421 06:24:06 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_10B_1Y/model-4000.
+[32m[0421 06:28:53 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.525
+[32m[0421 06:28:53 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_10B_4Y/model-4000.
+[32m[0421 06:33:40 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52128
+[32m[0421 06:33:41 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_10B_7Y/model-4000.
+[32m[0421 06:38:32 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52297
+[32m[0421 06:38:32 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_10B_10Y/model-4000.
+[32m[0421 06:43:18 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52159
+[32m[0421 06:43:18 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_10B_13Y/model-4000.
+[32m[0421 06:48:13 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5204
+[32m[0421 06:48:13 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_10B_16Y/model-4000.
+[32m[0421 06:53:05 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53083
+[32m[0421 06:53:05 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_10B_19Y/model-4000.
+[32m[0421 06:57:57 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52107
+[32m[0421 06:57:58 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_13B_1Y/model-4000.
+[32m[0421 07:02:43 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51952
+[32m[0421 07:02:43 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_13B_4Y/model-4000.
+[32m[0421 07:07:26 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52682
+[32m[0421 07:07:26 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_13B_7Y/model-4000.
+[32m[0421 07:12:22 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51936
+[32m[0421 07:12:23 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_13B_10Y/model-4000.
+[32m[0421 07:17:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52923
+[32m[0421 07:17:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_13B_13Y/model-4000.
+[32m[0421 07:22:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51007
+[32m[0421 07:22:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_13B_16Y/model-4000.
+[32m[0421 07:27:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52253
+[32m[0421 07:27:03 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_13B_19Y/model-4000.
+[32m[0421 07:31:54 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52639
+[32m[0421 07:31:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_16B_1Y/model-4000.
+[32m[0421 07:36:37 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51827
+[32m[0421 07:36:37 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_16B_4Y/model-4000.
+[32m[0421 07:41:31 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52538
+[32m[0421 07:41:31 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_16B_7Y/model-4000.
+[32m[0421 07:46:26 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52369
+[32m[0421 07:46:26 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_16B_10Y/model-4000.
+[32m[0421 07:51:16 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52352
+[32m[0421 07:51:16 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_16B_13Y/model-4000.
+[32m[0421 07:56:14 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52284
+[32m[0421 07:56:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_16B_16Y/model-4000.
+[32m[0421 08:01:01 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52604
+[32m[0421 08:01:01 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_16B_19Y/model-4000.
+[32m[0421 08:05:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52865
+[32m[0421 08:05:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_19B_1Y/model-4000.
+[32m[0421 08:10:34 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51389
+[32m[0421 08:10:34 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_19B_4Y/model-4000.
+[32m[0421 08:15:22 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52424
+[32m[0421 08:15:22 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_19B_7Y/model-4000.
+[32m[0421 08:20:07 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52819
+[32m[0421 08:20:07 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_19B_10Y/model-4000.
+[32m[0421 08:24:58 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52179
+[32m[0421 08:24:58 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_19B_13Y/model-4000.
+[32m[0421 08:29:43 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51902
+[32m[0421 08:29:43 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_19B_16Y/model-4000.
+[32m[0421 08:34:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52584
+[32m[0421 08:34:25 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/7A_19B_19Y/model-4000.
+[32m[0421 08:39:09 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52099
+[32m[0421 08:39:09 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_1B_1Y/model-4000.
+[32m[0421 08:43:55 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53054
+[32m[0421 08:43:55 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_1B_4Y/model-4000.
+[32m[0421 08:48:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52196
+[32m[0421 08:48:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_1B_7Y/model-4000.
+[32m[0421 08:53:29 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53221
+[32m[0421 08:53:29 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_1B_10Y/model-4000.
+[32m[0421 08:58:07 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52644
+[32m[0421 08:58:07 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_1B_13Y/model-4000.
+[32m[0421 09:02:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53296
+[32m[0421 09:02:46 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_1B_16Y/model-4000.
+[32m[0421 09:07:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52911
+[32m[0421 09:07:25 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_1B_19Y/model-4000.
+[32m[0421 09:12:01 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52522
+[32m[0421 09:12:02 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_4B_1Y/model-4000.
+[32m[0421 09:16:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52577
+[32m[0421 09:16:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_4B_4Y/model-4000.
+[32m[0421 09:21:26 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52355
+[32m[0421 09:21:27 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_4B_7Y/model-4000.
+[32m[0421 09:26:04 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51337
+[32m[0421 09:26:04 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_4B_10Y/model-4000.
+[32m[0421 09:30:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52634
+[32m[0421 09:30:45 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_4B_13Y/model-4000.
+[32m[0421 09:35:27 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52909
+[32m[0421 09:35:28 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_4B_16Y/model-4000.
+[32m[0421 09:40:04 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52354
+[32m[0421 09:40:04 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_4B_19Y/model-4000.
+[32m[0421 09:44:51 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52286
+[32m[0421 09:44:52 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_7B_1Y/model-4000.
+[32m[0421 09:49:27 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52366
+[32m[0421 09:49:27 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_7B_4Y/model-4000.
+[32m[0421 09:54:05 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53344
+[32m[0421 09:54:06 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_7B_7Y/model-4000.
+[32m[0421 09:58:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51888
+[32m[0421 09:58:45 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_7B_10Y/model-4000.
+[32m[0421 10:03:20 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.521
+[32m[0421 10:03:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_7B_13Y/model-4000.
+[32m[0421 10:07:59 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52404
+[32m[0421 10:07:59 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_7B_16Y/model-4000.
+[32m[0421 10:12:51 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52263
+[32m[0421 10:12:51 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_7B_19Y/model-4000.
+[32m[0421 10:17:33 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52574
+[32m[0421 10:17:33 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_10B_1Y/model-4000.
+[32m[0421 10:22:23 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5274
+[32m[0421 10:22:23 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_10B_4Y/model-4000.
+[32m[0421 10:27:06 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52406
+[32m[0421 10:27:07 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_10B_7Y/model-4000.
+[32m[0421 10:31:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52545
+[32m[0421 10:31:48 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_10B_10Y/model-4000.
+[32m[0421 10:36:26 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52268
+[32m[0421 10:36:26 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_10B_13Y/model-4000.
+[32m[0421 10:41:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52194
+[32m[0421 10:41:19 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_10B_16Y/model-4000.
+[32m[0421 10:46:02 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5177
+[32m[0421 10:46:02 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_10B_19Y/model-4000.
+[32m[0421 10:50:48 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52509
+[32m[0421 10:50:48 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_13B_1Y/model-4000.
+[32m[0421 10:55:30 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53114
+[32m[0421 10:55:30 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_13B_4Y/model-4000.
+[32m[0421 11:00:12 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52403
+[32m[0421 11:00:12 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_13B_7Y/model-4000.
+[32m[0421 11:04:56 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52641
+[32m[0421 11:04:56 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_13B_10Y/model-4000.
+[32m[0421 11:09:37 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.527
+[32m[0421 11:09:38 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_13B_13Y/model-4000.
+[32m[0421 11:14:31 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52413
+[32m[0421 11:14:31 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_13B_16Y/model-4000.
+[32m[0421 11:19:11 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51173
+[32m[0421 11:19:12 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_13B_19Y/model-4000.
+[32m[0421 11:24:01 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5225
+[32m[0421 11:24:01 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_16B_1Y/model-4000.
+[32m[0421 11:28:40 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52496
+[32m[0421 11:28:40 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_16B_4Y/model-4000.
+[32m[0421 11:33:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52373
+[32m[0421 11:33:24 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_16B_7Y/model-4000.
+[32m[0421 11:38:06 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52079
+[32m[0421 11:38:06 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_16B_10Y/model-4000.
+[32m[0421 11:42:53 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52715
+[32m[0421 11:42:54 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_16B_13Y/model-4000.
+[32m[0421 11:47:37 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52484
+[32m[0421 11:47:38 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_16B_16Y/model-4000.
+[32m[0421 11:52:22 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52745
+[32m[0421 11:52:22 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_16B_19Y/model-4000.
+[32m[0421 11:57:05 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51963
+[32m[0421 11:57:06 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_19B_1Y/model-4000.
+[32m[0421 12:01:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52748
+[32m[0421 12:01:46 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_19B_4Y/model-4000.
+[32m[0421 12:06:23 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53064
+[32m[0421 12:06:23 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_19B_7Y/model-4000.
+[32m[0421 12:11:00 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52693
+[32m[0421 12:11:00 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_19B_10Y/model-4000.
+[32m[0421 12:15:48 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51674
+[32m[0421 12:15:48 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_19B_13Y/model-4000.
+[32m[0421 12:20:25 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52799
+[32m[0421 12:20:25 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_19B_16Y/model-4000.
+[32m[0421 12:25:06 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5204
+[32m[0421 12:25:06 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/10A_19B_19Y/model-4000.
+[32m[0421 12:29:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51599
+[32m[0421 12:29:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_1B_1Y/model-4000.
+[32m[0421 12:34:23 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53166
+[32m[0421 12:34:23 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_1B_4Y/model-4000.
+[32m[0421 12:39:00 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52616
+[32m[0421 12:39:00 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_1B_7Y/model-4000.
+[32m[0421 12:43:36 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52416
+[32m[0421 12:43:36 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_1B_10Y/model-4000.
+[32m[0421 12:48:13 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52851
+[32m[0421 12:48:13 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_1B_13Y/model-4000.
+[32m[0421 12:53:06 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52932
+[32m[0421 12:53:07 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_1B_16Y/model-4000.
+[32m[0421 12:57:50 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52286
+[32m[0421 12:57:50 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_1B_19Y/model-4000.
+[32m[0421 13:02:30 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5367
+[32m[0421 13:02:31 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_4B_1Y/model-4000.
+[32m[0421 13:07:11 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52285
+[32m[0421 13:07:11 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_4B_4Y/model-4000.
+[32m[0421 13:11:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51821
+[32m[0421 13:11:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_4B_7Y/model-4000.
+[32m[0421 13:16:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52362
+[32m[0421 13:16:24 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_4B_10Y/model-4000.
+[32m[0421 13:21:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52607
+[32m[0421 13:21:03 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_4B_13Y/model-4000.
+[32m[0421 13:25:50 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51564
+[32m[0421 13:25:50 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_4B_16Y/model-4000.
+[32m[0421 13:30:27 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52926
+[32m[0421 13:30:27 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_4B_19Y/model-4000.
+[32m[0421 13:35:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5305
+[32m[0421 13:35:04 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_7B_1Y/model-4000.
+[32m[0421 13:39:38 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52317
+[32m[0421 13:39:38 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_7B_4Y/model-4000.
+[32m[0421 13:44:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52466
+[32m[0421 13:44:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_7B_7Y/model-4000.
+[32m[0421 13:48:52 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52338
+[32m[0421 13:48:52 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_7B_10Y/model-4000.
+[32m[0421 13:53:30 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52618
+[32m[0421 13:53:31 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_7B_13Y/model-4000.
+[32m[0421 13:58:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52671
+[32m[0421 13:58:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_7B_16Y/model-4000.
+[32m[0421 14:02:58 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52824
+[32m[0421 14:02:58 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_7B_19Y/model-4000.
+[32m[0421 14:07:39 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.50606
+[32m[0421 14:07:39 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_10B_1Y/model-4000.
+[32m[0421 14:12:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52996
+[32m[0421 14:12:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_10B_4Y/model-4000.
+[32m[0421 14:16:55 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53185
+[32m[0421 14:16:55 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_10B_7Y/model-4000.
+[32m[0421 14:21:34 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5299
+[32m[0421 14:21:34 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_10B_10Y/model-4000.
+[32m[0421 14:26:11 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5206
+[32m[0421 14:26:11 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_10B_13Y/model-4000.
+[32m[0421 14:30:48 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52381
+[32m[0421 14:30:48 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_10B_16Y/model-4000.
+[32m[0421 14:35:23 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51461
+[32m[0421 14:35:23 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_10B_19Y/model-4000.
+[32m[0421 14:40:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51752
+[32m[0421 14:40:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_13B_1Y/model-4000.
+[32m[0421 14:45:13 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52409
+[32m[0421 14:45:13 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_13B_4Y/model-4000.
+[32m[0421 14:49:57 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52229
+[32m[0421 14:49:57 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_13B_7Y/model-4000.
+[32m[0421 14:54:39 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5332
+[32m[0421 14:54:40 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_13B_10Y/model-4000.
+[32m[0421 14:59:21 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52379
+[32m[0421 14:59:21 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_13B_13Y/model-4000.
+[32m[0421 15:04:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51924
+[32m[0421 15:04:03 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_13B_16Y/model-4000.
+[32m[0421 15:08:43 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52175
+[32m[0421 15:08:43 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_13B_19Y/model-4000.
+[32m[0421 15:13:29 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51921
+[32m[0421 15:13:29 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_16B_1Y/model-4000.
+[32m[0421 15:18:14 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52406
+[32m[0421 15:18:14 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_16B_4Y/model-4000.
+[32m[0421 15:23:22 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52521
+[32m[0421 15:23:22 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_16B_7Y/model-4000.
+[32m[0421 15:28:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52042
+[32m[0421 15:28:16 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_16B_10Y/model-4000.
+[32m[0421 15:33:06 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51709
+[32m[0421 15:33:06 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_16B_13Y/model-4000.
+[32m[0421 15:37:52 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51524
+[32m[0421 15:37:52 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_16B_16Y/model-4000.
+[32m[0421 15:42:41 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52145
+[32m[0421 15:42:41 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_16B_19Y/model-4000.
+[32m[0421 15:47:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52602
+[32m[0421 15:47:24 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_19B_1Y/model-4000.
+[32m[0421 15:52:11 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51753
+[32m[0421 15:52:11 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_19B_4Y/model-4000.
+[32m[0421 15:56:57 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52138
+[32m[0421 15:56:57 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_19B_7Y/model-4000.
+[32m[0421 16:01:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52216
+[32m[0421 16:01:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_19B_10Y/model-4000.
+[32m[0421 16:06:44 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5315
+[32m[0421 16:06:44 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_19B_13Y/model-4000.
+[32m[0421 16:11:29 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53195
+[32m[0421 16:11:29 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_19B_16Y/model-4000.
+[32m[0421 16:16:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52803
+[32m[0421 16:16:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/13A_19B_19Y/model-4000.
+[32m[0421 16:21:05 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52278
+[32m[0421 16:21:05 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_1B_1Y/model-4000.
+[32m[0421 16:25:49 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52515
+[32m[0421 16:25:50 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_1B_4Y/model-4000.
+[32m[0421 16:30:28 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52483
+[32m[0421 16:30:28 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_1B_7Y/model-4000.
+[32m[0421 16:35:10 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51876
+[32m[0421 16:35:10 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_1B_10Y/model-4000.
+[32m[0421 16:39:52 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52917
+[32m[0421 16:39:52 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_1B_13Y/model-4000.
+[32m[0421 16:44:36 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53095
+[32m[0421 16:44:36 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_1B_16Y/model-4000.
+[32m[0421 16:49:35 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51549
+[32m[0421 16:49:35 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_1B_19Y/model-4000.
+[32m[0421 16:54:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52522
+[32m[0421 16:54:19 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_4B_1Y/model-4000.
+[32m[0421 16:59:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52585
+[32m[0421 16:59:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_4B_4Y/model-4000.
+[32m[0421 17:03:57 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52256
+[32m[0421 17:03:57 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_4B_7Y/model-4000.
+[32m[0421 17:08:48 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52829
+[32m[0421 17:08:49 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_4B_10Y/model-4000.
+[32m[0421 17:13:34 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51973
+[32m[0421 17:13:35 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_4B_13Y/model-4000.
+[32m[0421 17:18:22 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53018
+[32m[0421 17:18:22 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_4B_16Y/model-4000.
+[32m[0421 17:23:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52755
+[32m[0421 17:23:03 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_4B_19Y/model-4000.
+[32m[0421 17:27:44 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.517
+[32m[0421 17:27:44 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_7B_1Y/model-4000.
+[32m[0421 17:32:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52134
+[32m[0421 17:32:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_7B_4Y/model-4000.
+[32m[0421 17:37:37 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51952
+[32m[0421 17:37:37 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_7B_7Y/model-4000.
+[32m[0421 17:42:21 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52315
+[32m[0421 17:42:22 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_7B_10Y/model-4000.
+[32m[0421 17:47:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52058
+[32m[0421 17:47:04 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_7B_13Y/model-4000.
+[32m[0421 17:51:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52313
+[32m[0421 17:51:46 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_7B_16Y/model-4000.
+[32m[0421 17:56:34 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52238
+[32m[0421 17:56:34 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_7B_19Y/model-4000.
+[32m[0421 18:01:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5377
+[32m[0421 18:01:24 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_10B_1Y/model-4000.
+[32m[0421 18:06:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51835
+[32m[0421 18:06:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_10B_4Y/model-4000.
+[32m[0421 18:11:07 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51954
+[32m[0421 18:11:07 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_10B_7Y/model-4000.
+[32m[0421 18:15:59 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52292
+[32m[0421 18:15:59 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_10B_10Y/model-4000.
+[32m[0421 18:21:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5312
+[32m[0421 18:21:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_10B_13Y/model-4000.
+[32m[0421 18:25:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51864
+[32m[0421 18:25:46 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_10B_16Y/model-4000.
+[32m[0421 18:30:23 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52159
+[32m[0421 18:30:23 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_10B_19Y/model-4000.
+[32m[0421 18:35:00 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53284
+[32m[0421 18:35:00 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_13B_1Y/model-4000.
+[32m[0421 18:39:36 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53448
+[32m[0421 18:39:36 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_13B_4Y/model-4000.
+[32m[0421 18:44:17 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51897
+[32m[0421 18:44:17 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_13B_7Y/model-4000.
+[32m[0421 18:48:51 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52718
+[32m[0421 18:48:51 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_13B_10Y/model-4000.
+[32m[0421 18:53:27 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53021
+[32m[0421 18:53:27 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_13B_13Y/model-4000.
+[32m[0421 18:58:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52152
+[32m[0421 18:58:03 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_13B_16Y/model-4000.
+[32m[0421 19:02:44 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53451
+[32m[0421 19:02:44 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_13B_19Y/model-4000.
+[32m[0421 19:07:44 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53436
+[32m[0421 19:07:44 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_16B_1Y/model-4000.
+[32m[0421 19:12:26 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52413
+[32m[0421 19:12:26 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_16B_4Y/model-4000.
+[32m[0421 19:17:04 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52663
+[32m[0421 19:17:04 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_16B_7Y/model-4000.
+[32m[0421 19:21:41 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5294
+[32m[0421 19:21:42 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_16B_10Y/model-4000.
+[32m[0421 19:26:20 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51877
+[32m[0421 19:26:21 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_16B_13Y/model-4000.
+[32m[0421 19:30:58 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52227
+[32m[0421 19:30:59 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_16B_16Y/model-4000.
+[32m[0421 19:35:34 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52101
+[32m[0421 19:35:34 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_16B_19Y/model-4000.
+[32m[0421 19:40:14 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53069
+[32m[0421 19:40:14 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_19B_1Y/model-4000.
+[32m[0421 19:44:51 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52236
+[32m[0421 19:44:51 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_19B_4Y/model-4000.
+[32m[0421 19:49:38 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52764
+[32m[0421 19:49:39 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_19B_7Y/model-4000.
+[32m[0421 19:54:18 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51649
+[32m[0421 19:54:18 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_19B_10Y/model-4000.
+[32m[0421 19:59:13 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52512
+[32m[0421 19:59:13 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_19B_13Y/model-4000.
+[32m[0421 20:03:47 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52499
+[32m[0421 20:03:47 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_19B_16Y/model-4000.
+[32m[0421 20:08:24 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52393
+[32m[0421 20:08:24 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/16A_19B_19Y/model-4000.
+[32m[0421 20:13:01 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52615
+[32m[0421 20:13:01 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_1B_1Y/model-4000.
+[32m[0421 20:17:35 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52619
+[32m[0421 20:17:35 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_1B_4Y/model-4000.
+[32m[0421 20:22:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5322
+[32m[0421 20:22:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_1B_7Y/model-4000.
+[32m[0421 20:26:42 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52383
+[32m[0421 20:26:43 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_1B_10Y/model-4000.
+[32m[0421 20:31:21 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51213
+[32m[0421 20:31:21 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_1B_13Y/model-4000.
+[32m[0421 20:36:01 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53048
+[32m[0421 20:36:01 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_1B_16Y/model-4000.
+[32m[0421 20:40:36 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52751
+[32m[0421 20:40:36 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_1B_19Y/model-4000.
+[32m[0421 20:45:12 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52652
+[32m[0421 20:45:12 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_4B_1Y/model-4000.
+[32m[0421 20:50:05 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5225
+[32m[0421 20:50:05 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_4B_4Y/model-4000.
+[32m[0421 20:54:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52166
+[32m[0421 20:54:45 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_4B_7Y/model-4000.
+[32m[0421 20:59:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52367
+[32m[0421 20:59:20 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_4B_10Y/model-4000.
+[32m[0421 21:03:56 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53004
+[32m[0421 21:03:56 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_4B_13Y/model-4000.
+[32m[0421 21:08:32 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51974
+[32m[0421 21:08:32 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_4B_16Y/model-4000.
+[32m[0421 21:13:08 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51947
+[32m[0421 21:13:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_4B_19Y/model-4000.
+[32m[0421 21:17:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51578
+[32m[0421 21:17:46 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_7B_1Y/model-4000.
+[32m[0421 21:22:22 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51898
+[32m[0421 21:22:22 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_7B_4Y/model-4000.
+[32m[0421 21:26:58 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53285
+[32m[0421 21:26:59 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_7B_7Y/model-4000.
+[32m[0421 21:31:34 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52291
+[32m[0421 21:31:34 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_7B_10Y/model-4000.
+[32m[0421 21:36:11 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52457
+[32m[0421 21:36:11 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_7B_13Y/model-4000.
+[32m[0421 21:41:07 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51772
+[32m[0421 21:41:08 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_7B_16Y/model-4000.
+[32m[0421 21:45:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52185
+[32m[0421 21:45:46 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_7B_19Y/model-4000.
+[32m[0421 21:50:21 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51665
+[32m[0421 21:50:21 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_10B_1Y/model-4000.
+[32m[0421 21:54:58 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52953
+[32m[0421 21:54:59 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_10B_4Y/model-4000.
+[32m[0421 21:59:32 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52496
+[32m[0421 21:59:33 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_10B_7Y/model-4000.
+[32m[0421 22:04:09 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53373
+[32m[0421 22:04:09 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_10B_10Y/model-4000.
+[32m[0421 22:08:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51979
+[32m[0421 22:08:45 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_10B_13Y/model-4000.
+[32m[0421 22:13:29 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52902
+[32m[0421 22:13:29 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_10B_16Y/model-4000.
+[32m[0421 22:18:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53087
+[32m[0421 22:18:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_10B_19Y/model-4000.
+[32m[0421 22:22:56 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52417
+[32m[0421 22:22:57 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_13B_1Y/model-4000.
+[32m[0421 22:27:38 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5251
+[32m[0421 22:27:39 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_13B_4Y/model-4000.
+[32m[0421 22:32:18 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53162
+[32m[0421 22:32:19 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_13B_7Y/model-4000.
+[32m[0421 22:37:16 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.51393
+[32m[0421 22:37:16 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_13B_10Y/model-4000.
+[32m[0421 22:41:58 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5293
+[32m[0421 22:41:58 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_13B_13Y/model-4000.
+[32m[0421 22:46:40 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5215
+[32m[0421 22:46:40 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_13B_16Y/model-4000.
+[32m[0421 22:51:32 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52148
+[32m[0421 22:51:32 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_13B_19Y/model-4000.
+[32m[0421 22:56:29 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5253
+[32m[0421 22:56:29 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_16B_1Y/model-4000.
+[32m[0421 23:01:26 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53423
+[32m[0421 23:01:27 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_16B_4Y/model-4000.
+[32m[0421 23:06:19 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52236
+[32m[0421 23:06:19 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_16B_7Y/model-4000.
+[32m[0421 23:11:02 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.53339
+[32m[0421 23:11:02 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_16B_10Y/model-4000.
+[32m[0421 23:15:45 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52637
+[32m[0421 23:15:45 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_16B_13Y/model-4000.
+[32m[0421 23:20:29 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52221
+[32m[0421 23:20:29 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_16B_16Y/model-4000.
+[32m[0421 23:25:10 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52443
+[32m[0421 23:25:10 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_16B_19Y/model-4000.
+[32m[0421 23:29:56 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52232
+[32m[0421 23:29:56 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_19B_1Y/model-4000.
+[32m[0421 23:35:03 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52373
+[32m[0421 23:35:04 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_19B_4Y/model-4000.
+[32m[0421 23:39:46 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52648
+[32m[0421 23:39:46 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_19B_7Y/model-4000.
+[32m[0421 23:44:29 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52152
+[32m[0421 23:44:29 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_19B_10Y/model-4000.
+[32m[0421 23:49:15 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52135
+[32m[0421 23:49:15 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_19B_13Y/model-4000.
+[32m[0421 23:54:00 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.52088
+[32m[0421 23:54:00 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_19B_16Y/model-4000.
+[32m[0421 23:58:51 @monitor.py:467][0m validation_predict_trend/accuracy_: 0.5291
+[32m[0421 23:58:51 @saver.py:79][0m Model saved to /home/namvq/alpha_algo02/19A_19B_19Y/model-4000.

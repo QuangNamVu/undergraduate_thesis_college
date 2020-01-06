@@ -1,0 +1,1 @@
+self.cost = latent_loss + self.mse_loss + self.l2_loss * l2 + self.predict_loss

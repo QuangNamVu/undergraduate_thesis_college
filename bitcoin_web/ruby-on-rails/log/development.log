@@ -1,0 +1,92 @@
+Started GET "/" for 127.0.0.1 at 2019-04-12 10:36:07 +0700
+Processing by LibraryController#index as HTML
+  Rendering library/index.html.erb within layouts/application
+  Rendered library/index.html.erb within layouts/application (137.8ms)
+Completed 500 Internal Server Error in 147ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (couldn't find file 'datafeeds/udf/dist/bundle.js' with type 'application/javascript'
+Checked in these paths: 
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/config
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/images
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/javascripts
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/stylesheets
+  /home/nam/bitcoin_web/ruby-on-rails/vendor/assets/javascripts
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actioncable-5.2.2.1/lib/assets/compiled
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activestorage-5.2.2.1/app/assets/javascripts
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionview-5.2.2.1/lib/assets/compiled
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/nam/bitcoin_web/ruby-on-rails/node_modules):
+    1: <div class="page-logo-container">
+    2: 	<div class="page-rails-logo-container">
+    3: 		<%= image_tag("rails_logo.png", class: "page-rails-logo") %>
+    4: 	</div>
+    5: 	<div class="page-tv-logo-container">
+    6: 		<%= image_tag("tv_logo.png", class: "page-tv-logo") %>
+  
+app/assets/javascripts/application.js:16
+app/views/library/index.html.erb:3:in `_app_views_library_index_html_erb__4128338568139099949_47137637543120'
+Started GET "/" for 127.0.0.1 at 2019-04-12 11:48:22 +0700
+Processing by LibraryController#index as HTML
+  Rendering library/index.html.erb within layouts/application
+  Rendered library/index.html.erb within layouts/application (87.8ms)
+Completed 500 Internal Server Error in 96ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (couldn't find file 'datafeeds/udf/dist/bundle.js' with type 'application/javascript'
+Checked in these paths: 
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/config
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/images
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/javascripts
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/stylesheets
+  /home/nam/bitcoin_web/ruby-on-rails/vendor/assets/javascripts
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actioncable-5.2.2.1/lib/assets/compiled
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activestorage-5.2.2.1/app/assets/javascripts
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionview-5.2.2.1/lib/assets/compiled
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/nam/bitcoin_web/ruby-on-rails/node_modules):
+    1: <div class="page-logo-container">
+    2: 	<div class="page-rails-logo-container">
+    3: 		<%= image_tag("rails_logo.png", class: "page-rails-logo") %>
+    4: 	</div>
+    5: 	<div class="page-tv-logo-container">
+    6: 		<%= image_tag("tv_logo.png", class: "page-tv-logo") %>
+  
+app/assets/javascripts/application.js:16
+app/views/library/index.html.erb:3:in `_app_views_library_index_html_erb___1525053639695065124_70295297788100'
+Started PUT "/__web_console/repl_sessions/f30760e245a21eb898af461c9fd47150" for 127.0.0.1 at 2019-04-12 11:48:29 +0700
+Started PUT "/__web_console/repl_sessions/f30760e245a21eb898af461c9fd47150" for 127.0.0.1 at 2019-04-12 11:48:33 +0700
+Started GET "/" for 127.0.0.1 at 2019-04-12 11:48:47 +0700
+Processing by LibraryController#index as HTML
+  Rendering library/index.html.erb within layouts/application
+  Rendered library/index.html.erb within layouts/application (8.0ms)
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (couldn't find file 'datafeeds/udf/dist/bundle.js' with type 'application/javascript'
+Checked in these paths: 
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/config
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/images
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/javascripts
+  /home/nam/bitcoin_web/ruby-on-rails/app/assets/stylesheets
+  /home/nam/bitcoin_web/ruby-on-rails/vendor/assets/javascripts
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actioncable-5.2.2.1/lib/assets/compiled
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activestorage-5.2.2.1/app/assets/javascripts
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/actionview-5.2.2.1/lib/assets/compiled
+  /home/nam/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/nam/bitcoin_web/ruby-on-rails/node_modules):
+    1: <div class="page-logo-container">
+    2: 	<div class="page-rails-logo-container">
+    3: 		<%= image_tag("rails_logo.png", class: "page-rails-logo") %>
+    4: 	</div>
+    5: 	<div class="page-tv-logo-container">
+    6: 		<%= image_tag("tv_logo.png", class: "page-tv-logo") %>
+  
+app/assets/javascripts/application.js:16
+app/views/library/index.html.erb:3:in `_app_views_library_index_html_erb___1525053639695065124_70295308393720'

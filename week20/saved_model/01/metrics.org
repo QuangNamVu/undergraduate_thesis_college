@@ -1,0 +1,91 @@
+  1, Training  cost:, 51.4677
+  1, Accuracy train:, 0.5009
+  1, MSE      train:, 1.1861
+ 11, Training  cost:, 23.0941
+ 11, Accuracy train:, 0.5176
+ 11, MSE      train:, 0.9967
+ 21, Training  cost:, 8.3117
+ 21, Accuracy train:, 0.5223
+ 21, MSE      train:, 0.9982
+ 31, Training  cost:, 7.8163
+ 31, Accuracy train:, 0.5265
+ 31, MSE      train:, 1.0745
+ 41, Training  cost:, 5.2684
+ 41, Accuracy train:, 0.5291
+ 41, MSE      train:, 1.0278
+ 51, Training  cost:, 3.9797
+ 51, Accuracy train:, 0.5308
+ 51, MSE      train:, 1.0424
+ 61, Training  cost:, 21.5714
+ 61, Accuracy train:, 0.5320
+ 61, MSE      train:, 1.2729
+ 71, Training  cost:, 1.8971
+ 71, Accuracy train:, 0.5329
+ 71, MSE      train:, 1.0935
+ 81, Training  cost:, 11.2807
+ 81, Accuracy train:, 0.5335
+ 81, MSE      train:, 1.1084
+ 91, Training  cost:, 19.6397
+ 91, Accuracy train:, 0.5341
+ 91, MSE      train:, 1.2745
+101, Training  cost:, 8.9249
+101, Accuracy train:, 0.5345
+101, MSE      train:, 1.0279
+111, Training  cost:, 265.1401
+111, Accuracy train:, 0.5349
+111, MSE      train:, 1.8321
+121, Training  cost:, 1.8806
+121, Accuracy train:, 0.5352
+121, MSE      train:, 1.0606
+131, Training  cost:, 3.1154
+131, Accuracy train:, 0.5354
+131, MSE      train:, 1.0555
+141, Training  cost:, 5.7624
+141, Accuracy train:, 0.5356
+141, MSE      train:, 1.0644
+151, Training  cost:, 89.1544
+151, Accuracy train:, 0.5358
+151, MSE      train:, 1.0582
+161, Training  cost:, 6.7941
+161, Accuracy train:, 0.5360
+161, MSE      train:, 1.0613
+171, Training  cost:, 2.5970
+171, Accuracy train:, 0.5361
+171, MSE      train:, 1.0826
+181, Training  cost:, 2.3398
+181, Accuracy train:, 0.5363
+181, MSE      train:, 1.0812
+191, Training  cost:, 2.0963
+191, Accuracy train:, 0.5364
+191, MSE      train:, 1.0794
+201, Training  cost:, 2.1699
+201, Accuracy train:, 0.5365
+201, MSE      train:, 1.0821
+211, Training  cost:, 2.3312
+211, Accuracy train:, 0.5366
+211, MSE      train:, 1.1063
+221, Training  cost:, 11.0773
+221, Accuracy train:, 0.5367
+221, MSE      train:, 1.0708
+231, Training  cost:, 2.6352
+231, Accuracy train:, 0.5368
+231, MSE      train:, 1.0803
+241, Training  cost:, 1.8151
+241, Accuracy train:, 0.5369
+241, MSE      train:, 1.0761
+251, Training  cost:, 4.4138
+251, Accuracy train:, 0.5370
+251, MSE      train:, 1.0550
+261, Training  cost:, 1.7939
+261, Accuracy train:, 0.5371
+261, MSE      train:, 1.0709
+271, Training  cost:, 3.9000
+271, Accuracy train:, 0.5372
+271, MSE      train:, 1.0624
+281, Training  cost:, 1.7482
+281, Accuracy train:, 0.5373
+281, MSE      train:, 1.0573
+291, Training  cost:, 1.7355
+291, Accuracy train:, 0.5374
+291, MSE      train:, 1.0476
+Time: 34.21 secs
